@@ -1,0 +1,20 @@
+.wght input{
+    width: 100%;
+    padding: 0px;
+}
+
+.section-header{
+    text-align: center;
+}
+
+#weight-graph{
+    display: none;
+}
+
+#bp-graph{
+    display: none;
+}
+
+#hr-graph{
+    display: none;
+}
